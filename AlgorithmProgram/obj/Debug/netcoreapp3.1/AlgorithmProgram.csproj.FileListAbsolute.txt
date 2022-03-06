@@ -1,0 +1,14 @@
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\bin\Debug\netcoreapp3.1\AlgorithmProgram.exe
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\bin\Debug\netcoreapp3.1\AlgorithmProgram.deps.json
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\bin\Debug\netcoreapp3.1\AlgorithmProgram.runtimeconfig.json
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\bin\Debug\netcoreapp3.1\AlgorithmProgram.runtimeconfig.dev.json
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\bin\Debug\netcoreapp3.1\AlgorithmProgram.dll
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\bin\Debug\netcoreapp3.1\AlgorithmProgram.pdb
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.csproj.AssemblyReference.cache
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.AssemblyInfoInputs.cache
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.AssemblyInfo.cs
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.csproj.CoreCompileInputs.cache
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.dll
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.pdb
+D:\Blabz\RFP\AlgorithmProgram\AlgorithmProgram\obj\Debug\netcoreapp3.1\AlgorithmProgram.genruntimeconfig.cache
